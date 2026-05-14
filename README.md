@@ -1,4 +1,14 @@
 ## Hi there 👋
+Hi, I'm Kiya Alemayehu
+💻 Information Systems graduate passionate about technology, data, and building impactful software solutions.
+🛠️ Skills & Tools
+- Languages: Python | JavaScript | HTML | SQL
+- Mobile: Android Development
+- Data: Data Analysis | Data Cleaning | Python (Pandas, NumPy)
+🎓 Certifications
+- Udacity Android Development Nanodegree
+- Udacity Data Analysis Nanodegree
+🌍 Based in Addis Ababa, Ethiopia
 
 <!--
 **Kiya-alex/Kiya-alex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
