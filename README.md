@@ -1,6 +1,6 @@
 ## Hi there 👋
 Hi, I'm Kiya Alemayehu
-💻 Information Systems graduate passionate about technology, data, and building impactful software solutions.
+💻 software engineering graduate passionate about technology, data, and building impactful software solutions.
 🛠️ Skills & Tools
 - Languages: Python | JavaScript | HTML | SQL
 - Mobile: Android Development
