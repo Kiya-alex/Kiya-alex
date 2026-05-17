@@ -1,180 +1,58 @@
-# Hi there 👋 Welcome to My GitHub!
+<h1 align="center">Hi 👋 I'm Kiya Alemayehu</h1>
+<h3 align="center">Software Engineering Student | Python • Docker • Bash | Ethiopia 🇪🇹</h3>
 
-I'm **Kiya Alemayehu**, a passionate **Software Engineer** based in **Addis Ababa, Ethiopia** 🌍
+<br/>
 
-I'm dedicated to building scalable, elegant software solutions and contributing to the tech community. With a strong foundation in full-stack development, data analysis, and mobile app development, I transform ideas into impactful digital experiences.
+## 📬 How to reach me
+kiyaalex30@gmail.com
 
----
+<br/>
 
-## 💼 Professional Overview
+## 🛠️ My Tech Stack
 
-**Software Engineering Graduate** with hands-on experience in:
-- Full-stack web application development
-- Mobile app development (Android)
-- Data analysis and processing
-- Building RESTful APIs
-- Open-source contributions
+**Programming Languages**
 
-I'm passionate about writing clean, maintainable code and constantly learning new technologies to stay at the forefront of software engineering.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
----
+**Frameworks & Tools**
 
-## 🛠️ Technical Skills
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### Programming Languages
-- **JavaScript** - Frontend & Backend development
-- **Python** - Data analysis, automation, backend services
-- **Java** - Object-oriented programming, Android development
-- **HTML/CSS** - Responsive web design
-- **SQL** - Database design and queries
+**Version Control**
 
-### Frontend Development
-- React.js
-- Vue.js
-- HTML5 & CSS3
-- Responsive Web Design
-- UI/UX Implementation
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### Backend Development
-- Node.js & Express.js
-- Django
-- RESTful API Design
-- Database Management (SQL & NoSQL)
-- Authentication & Security
+**Databases**
 
-### Mobile Development
-- Android Development
-- Android Studio
-- Mobile UI/UX
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### Data Science & Analysis
-- Data Cleaning & Preprocessing
-- Python Libraries: Pandas, NumPy
-- Data Visualization
-- Statistical Analysis
+**Operating Systems**
 
-### Developer Tools & Platforms
-- Git & GitHub (Version Control)
-- Docker (Containerization)
-- VS Code
-- Android Studio
-- Postman (API Testing)
-- Linux/Terminal
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
----
+<br/>
 
-## 📚 Education & Certifications
+## 📊 GitHub Stats
 
-### Certifications
-🏆 **Udacity Android Development Nanodegree**
-- Specialized training in Android app development
-- Built production-ready Android applications
+<img src="https://github-readme-stats.vercel.app/api?username=Kiya-alex&show_icons=true&theme=tokyonight" />
 
-🏆 **Udacity Data Analysis Nanodegree**
-- Advanced data analysis and visualization
-- Data-driven decision making
+<br/>
 
-### Education
-📖 **Software Engineering Graduate**
+## 🔥 Streak
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kiya-alex&theme=tokyonight" />
 
-## 🚀 My Journey & What Drives Me
+<br/>
 
-- **Problem Solver** - I love tackling complex challenges with creative solutions
-- **Lifelong Learner** - Always exploring new frameworks, languages, and best practices
-- **Code Quality Advocate** - Passionate about clean architecture and maintainable code
-- **Collaborator** - Excited to work with diverse teams and contribute to open-source
-- **Impact Focused** - Building software that makes a real difference
+## 🌐 Connect with me
 
----
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kiya-alex&theme=nord&show_icons=true&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kiya-alex&theme=nord&layout=compact&hide_border=true)
-
----
-
-## 🎯 Featured Projects
-
-Check out my pinned repositories below to see my work in action:
-- Full-stack applications
-- Mobile applications
-- Data analysis projects
-- Contributions to open-source
-
-Each project showcases different aspects of my technical expertise and problem-solving abilities.
-
----
-
-## 🌟 Current Focus
-
-- 🔭 Building full-stack web applications with modern technologies
-- 📱 Mobile app development for Android
-- 📊 Data analysis and visualization projects
-- 🤝 Contributing to open-source communities
-- 📚 Deepening expertise in cloud technologies and microservices
-- 🚀 Staying updated with latest development trends
-
----
-
-## 🎓 Core Competencies
-
-✅ Full-Stack Web Development  
-✅ Android Mobile Development  
-✅ Data Analysis & Processing  
-✅ API Design & Integration  
-✅ Database Management  
-✅ Problem-Solving & Debugging  
-✅ Code Quality & Best Practices  
-✅ Team Collaboration  
-✅ Project Management  
-
----
-
-## 📫 Let's Connect!
-
-I'm always open to:
-- 💼 Collaborating on interesting projects
-- 🤝 Contributing to open-source initiatives
-- 💬 Discussing technology and innovations
-- 📧 Opportunities and professional growth
-
-Feel free to reach out! Let's build something amazing together.
-
----
-
-## 💡 Philosophy
-
-> "Code is poetry. It should be beautiful, meaningful, and solve real problems. Clean code isn't just about functionality—it's about respect for the next developer who reads it."
-
----
-
-## 🏅 Key Achievements
-
-- ✅ Multiple full-stack projects deployed
-- ✅ Android applications published
-- ✅ Data analysis projects with actionable insights
-- ✅ Open-source contributor
-- ✅ Continuous learner with multiple certifications
-
----
-
-## 📈 What's Next?
-
-I'm constantly evolving my skills and taking on new challenges. Check out my repositories to see my latest work and growth journey!
-
----
-
-**Thanks for visiting! 🙏**  
-*Feel free to explore my repositories, star projects you find interesting, and reach out for collaboration opportunities.*
-
-**Let's build something great together! 🚀**
-
----
-
-### 🔗 Profile Links
-- **GitHub**: [github.com/Kiya-alex](https://github.com/Kiya-alex)
-- **Location**: Addis Ababa, Ethiopia 🌍
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiya-alemayehu-913493409)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kiya-alex)
