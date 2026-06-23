@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Kiya Alemayehu</h1>
-<h3 align="center">Software Engineering Student | Python • Docker • Bash | Ethiopia 🇪🇹</h3>
+<h3 align="center">Information System Student | Python • Docker • Bash | Ethiopia 🇪🇹</h3>
 
 <br/>
 
